@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spooky ST666 Match</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="spook1">About The Game</string>
+    <string name="spook2">How to Play</string>
+    <string name="spook3">Start Game</string>
+
+    <string name="press_back_again_to_exit">Press back again to exit</string>
+    <string name="toggle_fullscreen">Long click to toggle fullscreen</string>
+</resources>
